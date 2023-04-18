@@ -8,3 +8,4 @@ Endpoints and fetching Examples-
 1. IFSC code fetch:- localhost/get_details_by_ifsc/{IFSC_code: int}  
 2. Bank ID and Branch name fetch:- localhost/get_details_by_bank_id_and_branch/{Bank_ID: int}/{Branch_name: string}
 
+
