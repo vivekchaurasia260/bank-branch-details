@@ -9,5 +9,5 @@ Endpoints and fetching Examples-
 2. Bank ID and Branch name fetch:- localhost/get_details_by_bank_id_and_branch/{Bank_ID: int}/{Branch_name: string}
 
 
-
+werwt
 
