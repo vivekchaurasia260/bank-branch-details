@@ -17,5 +17,3 @@ dghg
 
 ** This is different repo **
 
-**jfhgfc**
-khgyug
