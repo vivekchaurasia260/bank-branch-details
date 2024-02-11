@@ -16,7 +16,3 @@ dghvnv
 dghg
 
 ** This is different repo **
-
-*ksdgs fskkxf**
-asdf
-a
